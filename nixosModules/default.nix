@@ -1,0 +1,22 @@
+{
+  imports = [
+    ./avahi.nix
+    ./bluetooth.nix
+    ./fish.nix
+    ./fonts.nix
+    ./git.nix
+    ./home-manager.nix
+    ./hyprland.nix
+    ./locale.nix
+    ./nfs.nix
+    ./nix-settings.nix
+    ./openrgb.nix
+    ./openssh.nix
+    ./pipewire.nix
+    ./sonos-ports.nix
+    ./sddm.nix
+    ./steam.nix
+    ./users.nix
+    ./qemu.nix
+  ];
+}

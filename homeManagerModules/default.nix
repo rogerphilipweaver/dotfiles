@@ -1,0 +1,43 @@
+{
+  imports = [
+    ./aws.nix
+    ./black.nix
+    ./bitwarden.nix
+    ./claude-code.nix
+    ./gtk-theme.nix
+    ./eza.nix
+    ./fish.nix
+    ./fzf.nix
+    ./git.nix
+    ./grim.nix
+    ./google-cloud-sdk.nix
+    ./htop.nix
+    ./hyprland.nix
+    ./kitty.nix
+    ./lazygit.nix
+    ./libreoffice.nix
+    ./lua-language-server.nix
+    ./mako.nix
+    ./neovide.nix
+    ./nixd.nix
+    ./alejandra.nix
+    ./nix-index.nix
+    ./nix-settings.nix
+    ./noson.nix
+    ./nvim.nix
+    ./pyright.nix
+    ./qutebrowser.nix
+    ./rofi.nix
+    ./ripgrep.nix
+    ./slack.nix
+    ./slurp.nix
+    ./starship.nix
+    ./stylua.nix
+    ./swappy.nix
+    ./tmux.nix
+    ./unzip.nix
+    ./waybar.nix
+    ./zathura.nix
+    ./zoxide.nix
+  ];
+}
